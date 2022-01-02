@@ -14,7 +14,7 @@ public class Collatz {
     }
     public static void main(String[] args) {
         
-        
+        int nums[] = {0,1};
 
     }
 }
